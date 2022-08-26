@@ -7,11 +7,12 @@ class Solution:
                 if a - c < 0:
                     continue
                 dp[a] = min(dp[a], 1+dp[a-c])
+            print(dp)
 
         return -1 if dp[-1] == amount+1 else dp[-1]
 
 if __name__ == "__main__":
     s = Solution()
-    coins = [3,8,9]
-    i = s.coinChange(coins, 4)
+    coins = [186,419,83,408]
+    i = s.coinChange(coins, 6249)
     print(i)
