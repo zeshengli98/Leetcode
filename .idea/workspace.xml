@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d6a41e4-d15e-4e97-af4b-25196d9ce2f7" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/QR/QR preparation.ipynb" afterDir="false" />
+    <list default="true" id="7d6a41e4-d15e-4e97-af4b-25196d9ce2f7" name="Changes" comment="QR interview prepare">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QR/QR preparation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/QR/QR preparation.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,6 +191,8 @@
       <workItem from="1660315636937" duration="1907000" />
       <workItem from="1660571451308" duration="207000" />
       <workItem from="1661474800819" duration="701000" />
+      <workItem from="1661778936100" duration="1879000" />
+      <workItem from="1661952259565" duration="3335000" />
     </task>
     <task id="LOCAL-00001" summary="lc06212022">
       <created>1655869142724</created>
@@ -283,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661474852695</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="QR interview prepresion">
+      <created>1661778962905</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1661778962905</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,7 +319,8 @@
     <MESSAGE value="2D array and diff array" />
     <MESSAGE value="Array 20220804" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="QR interview prepresion" />
+    <option name="LAST_COMMIT_MESSAGE" value="QR interview prepresion" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -444,7 +454,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$47.coverage" NAME="47 Coverage Results" MODIFIED="1656473696903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BackTrack" />
     <SUITE FILE_PATH="coverage/Leetcode$121_buy_sell_stock.coverage" NAME="121-buy sell stock Coverage Results" MODIFIED="1656800263793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP" />
     <SUITE FILE_PATH="coverage/Leetcode$78_subset.coverage" NAME="78-subset Coverage Results" MODIFIED="1656474379099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BackTrack" />
-    <SUITE FILE_PATH="coverage/Leetcode$322_coin_change.coverage" NAME="322 coin change Coverage Results" MODIFIED="1660195362729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP" />
+    <SUITE FILE_PATH="coverage/Leetcode$322_coin_change.coverage" NAME="322 coin change Coverage Results" MODIFIED="1661825499958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP" />
     <SUITE FILE_PATH="coverage/Leetcode$27.coverage" NAME="27 Coverage Results" MODIFIED="1652832386260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
     <SUITE FILE_PATH="coverage/Leetcode$151_reverse_words.coverage" NAME="151-reverse words Coverage Results" MODIFIED="1659587740786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
     <SUITE FILE_PATH="coverage/Leetcode$438_rollingwindow.coverage" NAME="438-rollingwindow Coverage Results" MODIFIED="1656736466301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
