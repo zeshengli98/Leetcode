@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d6a41e4-d15e-4e97-af4b-25196d9ce2f7" name="Changes" comment="update">
+    <list default="true" id="7d6a41e4-d15e-4e97-af4b-25196d9ce2f7" name="Changes" comment="QR interview questions for Markov Chain">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/QR/QR preparation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/QR/QR preparation.ipynb" afterDir="false" />
     </list>
@@ -16,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -43,7 +43,8 @@
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RunManager" selected="Python.322 coin change">
@@ -191,6 +192,9 @@
       <workItem from="1660315636937" duration="1907000" />
       <workItem from="1660571451308" duration="207000" />
       <workItem from="1661474800819" duration="701000" />
+      <workItem from="1663000016708" duration="603000" />
+      <workItem from="1663129224440" duration="5904000" />
+      <workItem from="1663553709184" duration="6617000" />
     </task>
     <task id="LOCAL-00001" summary="lc06212022">
       <created>1655869142724</created>
@@ -283,7 +287,28 @@
       <option name="project" value="LOCAL" />
       <updated>1661474852695</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="QR interview question for Markov Chain">
+      <created>1662508246711</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1662508246711</updated>
+    </task>
+    <task id="LOCAL-00015" summary="QR interview question for Markov Chain">
+      <created>1662508305119</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1662508305119</updated>
+    </task>
+    <task id="LOCAL-00016" summary="QR interview questions for Markov Chain">
+      <created>1662526795299</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1662526795299</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,7 +335,9 @@
     <MESSAGE value="2D array and diff array" />
     <MESSAGE value="Array 20220804" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="QR interview question for Markov Chain" />
+    <MESSAGE value="QR interview questions for Markov Chain" />
+    <option name="LAST_COMMIT_MESSAGE" value="QR interview questions for Markov Chain" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
